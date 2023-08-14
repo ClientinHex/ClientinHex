@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @0xclient
 - 👀 I’m interested in Red Teaming / Adversary Simulation, Malware Development and Defense Evasion
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... Twitter @0xclient
 
 <!---
